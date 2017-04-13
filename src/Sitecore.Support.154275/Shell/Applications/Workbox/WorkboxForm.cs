@@ -1542,7 +1542,7 @@ namespace Sitecore.Support.Shell.Applications.Workbox
       /// <summary>
       /// Gets or sets the command IDs for the state.
       /// </summary>
-      public IEnumerable<string> CommandIds { get; set; }
+      public IEnumerable<string> CommandIds { get; set; } 
     }
   }
 }
